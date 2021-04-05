@@ -7,4 +7,8 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/app_bar_switch"
+        android:orderInCategory="101"
+        android:title="Switch"  />
 </menu>
